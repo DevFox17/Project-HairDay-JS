@@ -1,0 +1,13 @@
+const path = require("path")
+
+module.exports = {
+  target: "web",
+  mode: "development",
+
+  // Recomendado usar o path pois ele ja vai resolver com o sistema operaciona (mac, linux, windows etc)
+  entry: path.resolve(__dirname, "src", "main.js"),
+  output: {
+    filename: "main.js",
+    path: path.resolve(__dirname, "dist")
+  }
+}
