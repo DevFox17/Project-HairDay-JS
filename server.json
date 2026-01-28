@@ -1,3 +1,9 @@
 {
-  "schedules": []
+  "schedules": [
+    {
+      "id": 1769565528660,
+      "name": "jandavi",
+      "when": "2026-01-28T23:00:00.000Z"
+    }
+  ]
 }
