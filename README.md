@@ -8,7 +8,11 @@ Aplicação web desenvolvida para gerenciamento de agendamentos, com foco em **J
 
 > 📌 **Vídeo demonstrativo do projeto**  
 
-https://github.com/user-attachments/assets/d7ed071e-2ec3-48af-8a02-7b9e7ceaf08c
+
+
+https://github.com/user-attachments/assets/bb07203f-680f-4160-94fc-a2ed796d3912
+
+
 
 ---
 
