@@ -9,7 +9,7 @@ Aplicação web desenvolvida para gerenciamento de agendamentos, com foco em **J
 > 📌 **Vídeo demonstrativo do projeto**  
 
 
-Uploading Project-HairDay-JS - Trim - Trim.mp4…
+https://github.com/user-attachments/assets/f22db08e-fe19-4593-8b96-14e5a4b3313f
 
 ---
 
