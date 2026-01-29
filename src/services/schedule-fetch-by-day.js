@@ -1,5 +1,6 @@
 import dayjs from "dayjs"
-import { apiConfig } from "./api-config"
+import { apiConfig } from "./api-config.js"
+import {scheduleNew  } from "./schedule-new.js"
 
 export async function scheduleFetchByDay({ date }) {
   try {
@@ -20,3 +21,4 @@ export async function scheduleFetchByDay({ date }) {
     alert("Não foi possível buscar os agendamentos do dia selecionado.")
   }
 }
+
