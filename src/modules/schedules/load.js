@@ -12,13 +12,14 @@ export async function scheduleDay() {
   // Busca na API os agendamentos para carregar do lado direito da tela
   const dailySchedules = await scheduleFetchByDay({ date })
 
-  // Renderiza as horas dsponíveis
-  hoursLoad( {date} )
 
   // Exibe os agendamentos
   schedulesShow({ dailySchedules })
 
   // Os horários disponíveis (horário futuro + não agendado) do lado esquerdo (from)
+
+  // Renderiza as horas dsponíveis
+  hoursLoad( {date, dailySchedules} )
   
 
 }
